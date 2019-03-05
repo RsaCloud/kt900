@@ -1,0 +1,12 @@
+/*.sh
+/.idea
+/Application/Install/Data/install.lock
+/_runtime
+/Uploads
+/OcApi/oc_config.php
+/Runtime
+/*.log
+/Conf/install.lock
+/Conf/user.php
+/Conf/common.php
+/MP_verify_jc6q5VykhGQdTaHH.txt
